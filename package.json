@@ -1,7 +1,7 @@
 {
   "name": "untitled",
   "version": "0.1.0",
-  "homepage": "https://github.com/dkapinus/MyTable",
+  "homepage": "https://dkapinus.github.io/MyTable",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
